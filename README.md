@@ -1,0 +1,2 @@
+# thesis-manager
+student CRUD
